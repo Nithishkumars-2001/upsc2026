@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Important exam pages allowed
+Allow: /upsc-prelims.html
+Allow: /upsc-mains.html
+Allow: /current-affairs.html
+Allow: /mock-test.html
+Allow: /syllabus.html
+
+# Sitemap location
+Sitemap: https://upscexam2026.netlify.app/sitemap.xml
